@@ -1,4 +1,4 @@
-# data_structures# INSERTION SORT PROJECT
+# INSERTION SORT PROJECT
 
 ## QUESTIONS: 
 ### [22,27,16,2,18,6] 

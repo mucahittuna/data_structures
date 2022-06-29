@@ -11,7 +11,7 @@
 4.After sorting process Which case includes number 18. 
 
 ### [7,3,5,8,2,9,4,15,6]
--Write first 4 steps 
+ -Write first 4 steps 
 
 ## ANSWERS
 
@@ -21,7 +21,13 @@
 4. [2,6,16,18,22,27]
 5. [2,6,16,18,22,27]
 6. [2,6,16,18,22,27]
-#### Big O Notation : O(n)
+- Average Case : [16,18]
+- Worst Case: 27
+- Best Case: 2
+- Average Case includes number 18
+
+
+#### Big O Notation : O( $n^{2}$ )
 
 1. [7,3,5,8,2,9,4,15,6]
 2. [2,3,5,8,7,9,4,15,6]
